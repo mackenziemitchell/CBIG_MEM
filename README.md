@@ -1,4 +1,5 @@
 # Welcome to the Computational Brain Imaging Group (CBIG) repository!
+*Forked into MEM's Github and cloned here
 
 We are from [Thomas Yeo's Computational Brain Imaging Group (CBIG)](https://sites.google.com/view/yeolab).
 
